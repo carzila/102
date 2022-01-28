@@ -15,7 +15,7 @@
     }
 
 	h3 {
-      margin: 15px;
+      margin-left: 20px !important;
       font-size: 32px;
       font-weight: 700;
     }
