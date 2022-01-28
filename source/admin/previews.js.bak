@@ -70,7 +70,7 @@ const NavigationPreview = ({ entry }) => {
     <header className="header-primary">
       <div className="logo">
         <a href="/">
-          <img width="109" height="24" src="/images/logo_carzila.png" alt="CARZILA"/>
+          <img width="109" height="24" src="/images/logo.png" alt="CARZILA"/>
         </a>
       </div>
       <a className="nav-button">
