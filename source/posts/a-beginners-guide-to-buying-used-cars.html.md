@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to buying used cars
+title: 'A beginners guide to buying used cars'
 date: 2018-08-16T12:01+02:00
 description: >-
   There are many benefits to buying a used car, but avoid mistakes like waiting to procure financing, foregoing a mechanic check.
@@ -16,4 +16,4 @@ As many as 16% of buyers of used cars don't test drive the car before making the
 2. Have the car checked by a mechanic 
 3. Make Initial negotiations in person 
 
-In the case of used cars, it's imperative to test drive a few before making a purchase decision. This protects against buyer's remorse and also ensures that the car is running properly. 
+In the case of used cars, its imperative to test drive a few before making a purchase decision. This protects against buyer's remorse and also ensures that the car is running properly. 
