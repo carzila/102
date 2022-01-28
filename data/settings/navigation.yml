@@ -1,4 +1,5 @@
 nav_items: 
+  - {label: 'Interesed buying CARZILA.COM? 🡵', path: 'https://carzila.com'}
   - {label: 'Home', path: '/'}
   - {label: 'Pre-owned Cars', path: '/products/'}
   - {label: 'News', path: '/news'}
