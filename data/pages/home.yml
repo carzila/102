@@ -1,7 +1,8 @@
 hero:
   image: /images/uploads/homepage-hero.jpg
-  title1: |+
+  title1: >+
         Thinking cars?
+        
         Get 7-day test drive!
   title2: Get 7-day test drive!
 story: >-
