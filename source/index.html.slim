@@ -6,11 +6,8 @@ section.hero style=background_image(image_path(data.pages.home.hero.image))
   .caption
     .row
 		h1 = data.pages.home.hero.title1
-		
-section.hero 
-  .caption
-	.row
-		h3 = data.pages.home.hero.title2
+	.row	
+		h3 = markdown data.pages.home.hero.title2
 
 section.homepage-story
   .container
