@@ -6,6 +6,8 @@ section.hero style=background_image(image_path(data.pages.home.hero.image))
   .caption
     .row
 		h1 = data.pages.home.hero.title1
+    .row
+		h2 = data.pages.home.hero.title1
 
 section.homepage-story
   .container
@@ -16,7 +18,7 @@ section.homepage-story
 section.homepage-products.products
   .container
     h2
-      | Products
+      | Pre-owned Cars
     .row
       //product is structured: ['filename', 'data']
       //sort by newest product
