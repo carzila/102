@@ -18,9 +18,9 @@ footer
 
         .social
           .icons
-            = link_to 'https://app.domain.io/domains/preview/carzila.com'
+            = link_to '#'
               = image_tag "social/facebook.svg"
-            = link_to 'https://app.domain.io/domains/preview/carzila.com'
+            = link_to '#'
               = image_tag "social/twitter.svg"
             = link_to 'https://app.domain.io/domains/preview/carzila.com'
               = image_tag "social/github.svg"
