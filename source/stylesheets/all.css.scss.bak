@@ -28,6 +28,6 @@
 @import 'demo/homepage/story';
 
 
-@import 'custom2022/test';
+@import 'custom2022/';
 
 
