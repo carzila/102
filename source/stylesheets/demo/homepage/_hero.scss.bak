@@ -24,8 +24,7 @@
     }
   }
   
-  h2 
-  {
+  h2 {
     @media screen and (max-width: $screen-md-max){
       padding-top: 15%;
     }
